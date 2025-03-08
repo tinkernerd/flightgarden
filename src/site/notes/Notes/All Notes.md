@@ -370,7 +370,7 @@
 | [[Notes/PPL Regulations\|PPL Regulations]]                                                                  | 6:38 PM - March 08, 2025 |
 | [[Notes/Pre-Solo Maneuvers\|Pre-Solo Maneuvers]]                                                            | 6:43 PM - March 08, 2025 |
 | [[Notes/Preflight\|Preflight]]                                                                              | 6:43 PM - March 08, 2025 |
-| [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]                              | 6:38 PM - March 08, 2025 |
+| [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]                              | 6:50 PM - March 08, 2025 |
 | [[Notes/Propeller, Fuel and Electrical System\|Propeller, Fuel and Electrical System]]                      | 6:43 PM - March 08, 2025 |
 | [[Notes/Purposeful Preflight\|Purposeful Preflight]]                                                        | 6:43 PM - March 08, 2025 |
 | [[Notes/Quote Book\|Quote Book]]                                                                            | 6:37 PM - March 08, 2025 |
