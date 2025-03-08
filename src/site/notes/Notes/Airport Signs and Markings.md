@@ -91,4 +91,4 @@ This section covers the importance of runway safety, understanding airport signs
 Understanding and adhering to airport signs and markings are crucial for safe flying. Always stay vigilant, communicate clearly, and never hesitate to seek assistance if unsure.
 
 # Resources
-![[Aviation Resources.canvas|Aviation Resources]]
+![[Aviation Resources Canvas.canvas|Aviation Resources]]

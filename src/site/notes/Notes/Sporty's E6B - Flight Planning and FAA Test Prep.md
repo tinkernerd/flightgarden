@@ -132,4 +132,4 @@ This section provides an overview of the Sporty's Electronic E6B Flight Computer
 
 Using the Sporty's Electronic E6B Flight Computer, you can efficiently perform essential aviation calculations for flight planning and in-flight navigation. Mastering its functions will aid you in your flight training and help you prepare for the FAA knowledge test.
 
-![[Aviation Resources.canvas|Aviation Resources]]
+![[Aviation Resources Canvas.canvas|Aviation Resources]]

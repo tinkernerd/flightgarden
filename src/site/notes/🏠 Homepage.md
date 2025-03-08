@@ -7,7 +7,7 @@ Fly safe, and remember: the sky isn't the limit—it’s just the beginning!
 ___
 ## Notes
 - [[Notes/Quote Book\|Quote Book]]
-- [[Aviation Resources.canvas|Aviation Resources]]
+- [[Aviation Resources Canvas.canvas|Aviation Resources]]
 - [[Notes/Notes Todo\|Notes Todo]]
 - [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 ### Topics
