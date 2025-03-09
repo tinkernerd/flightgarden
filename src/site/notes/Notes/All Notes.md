@@ -288,7 +288,7 @@
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [[Notes/Aerodynamics\|Aerodynamics]]                                                                        | 6:39 PM - March 08, 2025 |
 | [[Notes/Aeronautical Information Manual\|Aeronautical Information Manual]]                                  | 6:43 PM - March 08, 2025 |
-| [[Notes/Air Facts - 6 Rules For Cross Country Flights\|Air Facts - 6 Rules For Cross Country Flights]]      | 6:16 PM - March 09, 2025 |
+| [[Notes/Air Facts - 6 Rules For Cross Country Flights\|Air Facts - 6 Rules For Cross Country Flights]]      | 6:38 PM - March 09, 2025 |
 | [[Notes/Air Facts - Calm in the Clouds\|Air Facts - Calm in the Clouds]]                                    | 6:43 PM - March 08, 2025 |
 | [[Notes/Air Facts - Emergencies\|Air Facts: Emergencies]]                                                   | 6:43 PM - March 08, 2025 |
 | [[Notes/Air Facts - Engine TLC\|Air Facts - Engine TLC]]                                                    | 6:43 PM - March 08, 2025 |
@@ -321,7 +321,7 @@
 | [[Notes/Calculating Takeoff and Landing Distance\|Calculating Takeoff and Landing Distance]]                | 6:43 PM - March 08, 2025 |
 | [[Notes/Carbureted Engines\|Carbureted Engines]]                                                            | 6:43 PM - March 08, 2025 |
 | [[Notes/Change of Scenery\|Change of Scenery]]                                                              | 6:43 PM - March 08, 2025 |
-| [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]                                | 6:37 PM - March 09, 2025 |
+| [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]                                | 6:38 PM - March 09, 2025 |
 | [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]                                                          | 6:43 PM - March 08, 2025 |
 | [[Notes/Closer Look - Airport Services\|Closer Look: Airport Services]]                                     | 6:43 PM - March 08, 2025 |
 | [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]                    | 6:43 PM - March 08, 2025 |
