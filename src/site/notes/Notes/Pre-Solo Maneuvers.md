@@ -4,7 +4,7 @@
 
 
 # Pre-Solo Maneuvers
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers pre-solo maneuvers, specifically S-Turns Across a Road and Turns Around a Point, focusing on correcting for wind drift to maintain a prescribed ground track during turning flight.
 ## Understanding Wind Drift in Turning Flight:

@@ -4,7 +4,7 @@
 
 
 # Closer Look: Reducing Drag
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section explores how modern aircraft reduce drag through aerodynamic design features to achieve higher performance and speed.
 

@@ -4,7 +4,7 @@
 
 
 # Air Facts - Weather Geeks
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section explores how learning to fly fosters a deep connection with weather and emphasizes the importance of continual weather observation for safe flying practices.
 

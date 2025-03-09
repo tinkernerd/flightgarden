@@ -4,7 +4,7 @@
 
 
 # Angle of Attack
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section explains the concept of angle of attack and its critical role in understanding and preventing stalls, emphasizing why a stall can occur at any airspeed or attitude.

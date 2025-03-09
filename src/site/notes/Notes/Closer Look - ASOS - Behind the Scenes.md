@@ -4,7 +4,7 @@
 
 
 # Closer Look - ASOS - Behind the Scenes
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 In this section, we explore the Automated Surface Observing System (ASOS) and Automated Weather Observing System (AWOS), their functions, limitations, and importance for pilots, especially new student pilots.
 

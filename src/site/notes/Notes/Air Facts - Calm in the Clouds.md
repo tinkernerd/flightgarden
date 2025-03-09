@@ -4,7 +4,7 @@
 
 
 # Air Facts - Calm in the Clouds
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section focuses on becoming comfortable with instrument flying, managing stress, understanding weather-related risks, and maintaining control during emergency situations.
 

@@ -4,7 +4,7 @@
 
 
 # Intro to Glass Cockpit Systems
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces the Garmin G1000 Glass Cockpit System, providing foundational knowledge for new student pilots to understand and operate modern avionics.
 

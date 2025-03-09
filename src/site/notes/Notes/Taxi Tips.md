@@ -4,7 +4,7 @@
 
 
 # Taxi Tips
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides essential tips for safely and efficiently taxiing an aircraft from the parking spot to the runway, emphasizing awareness, proper handling, and preparation for flight.
 

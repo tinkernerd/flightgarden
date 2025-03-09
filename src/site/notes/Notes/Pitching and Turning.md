@@ -4,7 +4,7 @@
 
 
 # Pitching and Turning
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the importance of pitch control during turns and how understanding control feedback from the airplane helps maintain safe flying practices.

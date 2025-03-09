@@ -4,7 +4,7 @@
 
 
 # Airspace Preflight Planning
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the modern approaches to VFR flight planning, emphasizing the use of digital tools and aviation apps to navigate airspace efficiently, especially for new student pilots.
 

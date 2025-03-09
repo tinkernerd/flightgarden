@@ -4,7 +4,7 @@
 
 
 # The Proper Attitude
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section explains the concept of angle of attack and its importance in understanding stalls and safe flight practices for student pilots.

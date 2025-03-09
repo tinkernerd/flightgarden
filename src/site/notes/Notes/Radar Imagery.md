@@ -4,7 +4,7 @@
 
 
 # Radar Imagery
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the importance of radar imagery in aviation weather briefings and how to interpret radar data to ensure safe VFR flight operations.
 

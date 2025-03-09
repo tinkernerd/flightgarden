@@ -4,7 +4,7 @@
 
 
 # Closer Look: Weather Information
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers various online resources available for obtaining preflight weather information, emphasizing the importance of understanding weather data for safe and informed flying.
 

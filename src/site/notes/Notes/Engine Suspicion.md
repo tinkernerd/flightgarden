@@ -4,7 +4,7 @@
 
 
 # Engine Suspicion
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section emphasizes the importance of careful engine operation, starting from basic trainers to advanced turbocharged airplanes. It highlights the significance of being vigilant about engine performance to maintain safety in flight.

@@ -4,7 +4,7 @@
 
 
 # Getting the Message
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section focuses on effective communication in aviation, emphasizing the importance of concise radio transmissions, active listening, and proper etiquette to develop professional piloting skills.
 

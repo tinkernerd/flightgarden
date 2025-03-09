@@ -4,7 +4,7 @@
 
 
 # Ground Reference Maneuvers
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 

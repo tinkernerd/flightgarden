@@ -4,7 +4,7 @@
 
 
 # Solo
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides essential information for student pilots preparing for their first solo flight, including pre-solo requirements, flight limitations, and the responsibilities that come with solo flying.
 

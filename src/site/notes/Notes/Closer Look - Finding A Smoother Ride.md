@@ -4,7 +4,7 @@
 
 
 # Closer Look - Finding A Smoother Ride
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of flying comfortably, not just safely, and provides tips for finding smoother rides by understanding and observing various environmental factors.
 

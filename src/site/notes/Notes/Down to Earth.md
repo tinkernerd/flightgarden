@@ -4,7 +4,7 @@
 
 
 # Down to Earth
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides insights into mastering landings as a student pilot, emphasizing the importance of practice, embracing mistakes, and developing smooth control inputs for safe and confident flying.
 

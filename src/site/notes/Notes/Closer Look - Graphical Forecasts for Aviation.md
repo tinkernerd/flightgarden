@@ -4,7 +4,7 @@
 
 
 # Closer Look: Graphical Forecasts for Aviation
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an overview of the Graphical Forecasts for Aviation (GFA), an interactive tool that helps pilots review weather forecasts in a graphical form, essential for pre-flight planning and understanding aviation weather conditions.
 

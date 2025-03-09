@@ -4,7 +4,7 @@
 
 
 # Wind Direction Indicators
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 Understanding wind direction indicators is crucial for safe takeoffs and landings. This guide explains the common types of wind indicators and how to use them effectively.
 

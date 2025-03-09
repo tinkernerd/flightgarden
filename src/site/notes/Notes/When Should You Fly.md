@@ -3,7 +3,7 @@
 ---
 
 # When Should You Fly?
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section discusses the important factors a student pilot should consider when deciding whether to fly, focusing on weather conditions, time of day, and the fundamentals of flight training.
 

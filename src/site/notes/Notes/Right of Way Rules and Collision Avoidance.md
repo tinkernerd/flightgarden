@@ -4,7 +4,7 @@
 
 
 # Right of Way Rules and Collision Avoidance
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the right-of-way rules and collision avoidance techniques essential for safe flight operations, focusing on the categories and classes of aircraft, the principles behind right-of-way rules, and practical scanning methods to prevent collisions.
 

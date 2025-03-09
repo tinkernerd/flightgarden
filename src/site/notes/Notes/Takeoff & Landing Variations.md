@@ -4,7 +4,7 @@
 
 
 # Takeoff & Landing Variations 
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers various takeoff and landing techniques, including crosswind operations, flap usage, slip maneuvers, go-around procedures, wake turbulence avoidance, and common challenges faced by student pilots during landing practice.
 

@@ -4,7 +4,7 @@
 
 
 # Propeller, Fuel and Electrical System
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 These training notes cover the fundamental aspects of the fuel system, propeller, and electrical system in a Cessna 172, providing essential knowledge for new student pilots.
 

@@ -4,7 +4,7 @@
 
 
 # METAR Weather Report
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces the Aviation Routine Weather Report (METAR), a critical weather observation product for pilots, detailing how to read and interpret METARs for safe flight operations.
 

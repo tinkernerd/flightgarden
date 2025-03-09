@@ -4,7 +4,7 @@
 
 
 # Air Facts: Fit for Flight
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of self-assessment and ensuring personal fitness before flying. It covers factors like health conditions, medications, fatigue, and alcohol consumption that can affect a pilot's ability to fly safely.
 

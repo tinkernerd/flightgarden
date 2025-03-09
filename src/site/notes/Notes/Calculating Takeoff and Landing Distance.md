@@ -4,7 +4,7 @@
 
 
 # Calculating Takeoff and Landing Distance
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the essential factors affecting takeoff and landing distances and how to calculate them using performance graphs and tables. Understanding these concepts is crucial for safe and efficient flight operations.
 

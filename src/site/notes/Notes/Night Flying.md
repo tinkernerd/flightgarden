@@ -4,7 +4,7 @@
 
 
 # Night Flying
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces the fundamentals of night flying, highlighting the differences from daytime flight and providing essential tips for new student pilots.
 

@@ -4,7 +4,7 @@
 
 
 # The Airplane - Introduction
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces the basic principles of flight, the airplane's controls, and the aerodynamics that make it fly.
 

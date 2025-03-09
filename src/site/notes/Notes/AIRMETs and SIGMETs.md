@@ -4,7 +4,7 @@
 
 
 # AIRMETs and SIGMETs
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces AIRMETs, SIGMETs, and Convective SIGMETs, which are essential weather forecast products that help pilots identify hazardous conditions along their planned routes.
 

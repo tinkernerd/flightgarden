@@ -4,7 +4,7 @@
 
 
 # ForeFlight Weather Imagery
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an overview of using the ForeFlight app's Imagery section for comprehensive preflight weather planning and understanding various weather forecast charts and graphics.
 

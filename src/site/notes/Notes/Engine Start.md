@@ -4,7 +4,7 @@
 
 
 # Engine Start
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the standard procedures for safely starting the engine of a Cessna 172, emphasizing both safety and following checklists for reliable operations.
 

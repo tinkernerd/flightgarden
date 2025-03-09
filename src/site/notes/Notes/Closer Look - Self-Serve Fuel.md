@@ -4,7 +4,7 @@
 
 
 # Closer Look - Self-Serve Fuel
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an overview of using self-serve fuel at airports, guiding new student pilots through the process of safely and efficiently fueling their aircraft, which can offer significant cost savings and convenience.
 

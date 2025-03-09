@@ -4,7 +4,7 @@
 
 
 # Touch and Go
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the practice of touch and go's in flight training, their purpose, procedures, and considerations for student pilots.
 

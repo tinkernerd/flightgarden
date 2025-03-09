@@ -4,7 +4,7 @@
 
 
 # Reading Sectional Charts
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the basics of reading sectional charts, including understanding latitude and longitude, chart symbols, and how to locate positions and measure distances on the chart.
 

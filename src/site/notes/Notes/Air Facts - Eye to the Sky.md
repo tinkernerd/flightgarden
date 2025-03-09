@@ -4,7 +4,7 @@
 
 
 # Air Facts: Eye to the Sky
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of collision avoidance and active scanning for other aircraft, highlighting the responsibilities of a student pilot in maintaining situational awareness for safe flying.
 

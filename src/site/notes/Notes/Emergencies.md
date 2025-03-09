@@ -4,7 +4,7 @@
 
 
 # Emergencies
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers essential emergency procedures for pilots, including how to handle engine failures, forced landings, instrument failures, and emergency descents. Understanding these procedures is crucial for ensuring safety during unexpected situations.
 

@@ -4,7 +4,7 @@
 
 
 # Four Fundamentals Part 2
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the essentials of straight and level flight, climbs, and descents, focusing on techniques for maintaining control and precision in aircraft operation.

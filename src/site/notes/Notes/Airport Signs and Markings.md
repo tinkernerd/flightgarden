@@ -4,7 +4,7 @@
 
 
 # Airport Signs and Markings
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the importance of runway safety, understanding airport signs and markings, and best practices for new student pilots to navigate airports safely.
 

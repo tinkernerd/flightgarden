@@ -4,7 +4,7 @@
 
 
 # Taxi, Run-up, Traffic Pattern
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section provides essential training notes for new student pilots on taxiing, performing run-up checks, and understanding airport traffic patterns.

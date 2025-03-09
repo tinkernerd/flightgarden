@@ -4,7 +4,7 @@
 
 
 # Engines
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the fundamentals of internal combustion engines in aircraft, the importance of proper fuel-air mixture, and how to manage engine operations for safe and efficient flying.

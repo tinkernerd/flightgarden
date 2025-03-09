@@ -4,7 +4,7 @@
 
 
 # Closer look - ADS-B
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces ADS-B (Automatic Dependent Surveillance-Broadcast), a key component of modern air traffic management, essential for new pilots to understand as part of the FAA's NextGen initiative.
 

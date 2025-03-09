@@ -4,7 +4,7 @@
 
 
 # Four Fundamentals
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the four fundamental maneuvers of flight and their importance in controlling an airplane using proper pitch, bank, and power settings.

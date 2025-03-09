@@ -4,7 +4,7 @@
 
 
 # Basic Instrument Flying
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 These notes cover the essential aspects of basic instrument flying, emphasizing its importance for emergency situations and providing guidance on essential techniques for new student pilots.
 

@@ -3,7 +3,7 @@
 ---
 
 # PPL Regulations
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the Federal Aviation Regulations (FARs) relevant to student pilots preparing for solo cross-country flights, including the required aeronautical experience, flight proficiency, planning, and regulations to ensure safety during cross-country flights.
 

@@ -4,7 +4,7 @@
 
 
 # `= this.title`
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the requirements and procedures for obtaining your Student Pilot Certificate and Medical Certificate, as well as important aeromedical factors to be aware of as a new pilot.

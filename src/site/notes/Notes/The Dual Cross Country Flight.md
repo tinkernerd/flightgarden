@@ -4,7 +4,7 @@
 
 
 # The Dual Cross Country Flight
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section demonstrates a typical dual cross-country training flight, guiding new student pilots through planning, navigation, communication, and flight management during a cross-country journey.
 

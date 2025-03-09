@@ -4,7 +4,7 @@
 
 
 # Flying to a Towered Airport
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the procedures and communication required when flying to and from a Class D tower-controlled airport, focusing on the use of ATIS, radio communications, and proper protocols for new student pilots.
 

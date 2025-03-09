@@ -4,7 +4,7 @@
 
 
 # Fog & Atmospheric Pressure
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 Understanding weather is essential for safe flying. This section covers fog, atmospheric pressure, and their effects on flight. As a new pilot, you should learn to recognize, respect, and refrain from flying near marginal or hazardous weather conditions.
 

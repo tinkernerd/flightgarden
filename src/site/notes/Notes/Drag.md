@@ -4,7 +4,7 @@
 
 
 # Drag
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the concept of drag in aerodynamics and its importance for pilots to understand how it affects flight performance.
 

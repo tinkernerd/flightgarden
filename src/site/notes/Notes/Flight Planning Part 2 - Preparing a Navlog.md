@@ -4,7 +4,7 @@
 
 
 # Flight Planning Part 2: Preparing a Navlog
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers how to prepare a navigation log (navlog) for a cross-country flight, focusing on determining time en route, groundspeed, fuel requirements, and selecting visual checkpoints for effective pilotage and dead reckoning navigation.
 

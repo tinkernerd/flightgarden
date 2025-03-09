@@ -4,7 +4,7 @@
 
 
 # Pilot Weather Reports (PIREPs)
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the importance of Pilot Weather Reports (PIREPs), how they are generated, interpreted, and accessed, providing essential real-time weather information for pilots.
 

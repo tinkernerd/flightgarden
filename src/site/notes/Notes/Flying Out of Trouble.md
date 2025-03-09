@@ -4,7 +4,7 @@
 
 
 # Flying Out of Trouble
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of weather awareness and proper decision-making to avoid flying into adverse conditions and how to handle situations when inadvertently encountering instrument meteorological conditions (IMC).
 

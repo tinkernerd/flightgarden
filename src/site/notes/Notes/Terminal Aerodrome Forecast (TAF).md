@@ -4,7 +4,7 @@
 
 
 # Terminal Aerodrome Forecast (TAF)
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section explains the Terminal Aerodrome Forecast (TAF), how to read and interpret it, and how to access TAFs using online resources and aviation apps.
 

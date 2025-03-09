@@ -4,7 +4,7 @@
 
 
 # Air Masses and Fronts
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section discusses air masses and fronts, explaining how they affect weather patterns crucial for flight safety. Understanding these concepts helps pilots make better decisions regarding the weather's impact on flight operations.
 

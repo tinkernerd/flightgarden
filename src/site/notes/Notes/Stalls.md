@@ -4,7 +4,7 @@
 
 
 # Stalls
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the fundamentals of stalls, their types, how to recognize and recover from them, and emphasizes the importance of practicing stall recovery techniques for new student pilots.

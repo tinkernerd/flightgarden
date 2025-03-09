@@ -4,7 +4,7 @@
 
 
 # Winds Aloft Forecast
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers understanding wind, its effects on flight operations, and how to interpret winds aloft forecasts using both textual and graphical resources.
 

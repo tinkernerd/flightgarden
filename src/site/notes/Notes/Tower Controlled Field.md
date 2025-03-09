@@ -4,7 +4,7 @@
 
 
 # Tower Controlled Field
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section provides an overview of the procedures required to depart from an airport with an air traffic control tower, aimed at new student pilots learning to navigate tower-controlled fields effectively and safely.

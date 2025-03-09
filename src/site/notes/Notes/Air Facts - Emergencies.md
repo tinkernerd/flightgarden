@@ -4,7 +4,7 @@
 
 
 # Air Facts: Emergencies
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers essential strategies for handling in-flight emergencies, emphasizing the importance of staying calm, following procedures, and acting professionally, regardless of experience level.
 

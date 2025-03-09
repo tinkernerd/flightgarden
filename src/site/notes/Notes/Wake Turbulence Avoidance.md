@@ -4,7 +4,7 @@
 
 
 # Wake Turbulence Avoidance
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the concept of wake turbulence and practical tips for avoiding it during flight operations.
 

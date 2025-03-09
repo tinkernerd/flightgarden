@@ -4,7 +4,7 @@
 
 
 # Air Facts - Getting to Know You
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of building a strong relationship with air traffic controllers and how it benefits pilots, especially new student pilots.
 

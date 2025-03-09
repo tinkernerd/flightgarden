@@ -4,7 +4,7 @@
 
 
 # Magnetic Compass
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the construction, operation, and errors associated with the magnetic compass in aviation, ensuring student pilots understand its importance despite the availability of more modern instruments.
 

@@ -4,7 +4,7 @@
 
 
 # Air Facts - Engine TLC
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of treating airplane engines with care and understanding best practices for engine operation to ensure longevity and safe flying.
 

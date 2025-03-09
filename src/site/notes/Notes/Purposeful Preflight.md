@@ -4,7 +4,7 @@
 
 
 # Purposeful Preflight
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 The preflight inspection is an essential practice for pilots to ensure safety before every flight. This guide emphasizes the importance of a purposeful preflight, especially for student pilots beginning their aviation journey.
 

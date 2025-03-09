@@ -4,7 +4,7 @@
 
 
 # Normal Airspace
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 > [[Aviation Resources Canvas.canvas|Aviation Resources]]
 
 This section covers the understanding of the airspace system in the United States, including the classifications, requirements, and rules for different classes of airspace.

@@ -4,7 +4,7 @@
 
 
 # Thrust, Stability, & Center of Gravity
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the concepts of thrust, stability, and center of gravity, explaining how they affect aircraft performance and handling, especially for new student pilots learning about weight and balance theory.
 

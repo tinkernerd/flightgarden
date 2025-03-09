@@ -4,7 +4,7 @@
 
 
 # Air Facts: Leave Yourself an Out
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of thorough flight planning, anticipating contingencies, and prudent fuel management to ensure safe and confident flying.
 

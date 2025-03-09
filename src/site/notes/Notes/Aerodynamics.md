@@ -3,7 +3,7 @@
 ---
 
 # Aerodynamics
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the fundamental principles of aerodynamics, including the four forces acting on an airplane, the concepts of lift, weight, thrust, drag, and how they influence flight performance and control.
 

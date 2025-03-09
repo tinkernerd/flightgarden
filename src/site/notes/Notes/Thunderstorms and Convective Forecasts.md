@@ -4,7 +4,7 @@
 
 
 # Thunderstorms and Convective Forecasts
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the importance of understanding thunderstorms and how to interpret convective forecasts to ensure safe flying practices for new pilots.
 

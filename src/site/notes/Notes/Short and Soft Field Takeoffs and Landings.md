@@ -4,7 +4,7 @@
 
 
 # Short and Soft Field Takeoffs and Landings
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 Most of your flight training has likely occurred on long paved runways, providing plenty of extra margin as you build experience. This section covers techniques for short and soft field takeoffs and landings, essential skills for achieving maximum performance from your airplane when operating from shorter or less-than-ideal runways.
 

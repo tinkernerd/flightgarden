@@ -4,7 +4,7 @@
 
 
 # Air Facts - Laying a Foundation
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section focuses on the importance of weather knowledge and preparation for both VFR and IFR flying, emphasizing the continuation of training towards an instrument rating.
 

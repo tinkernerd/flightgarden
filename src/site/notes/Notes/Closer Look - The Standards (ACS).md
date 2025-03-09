@@ -4,7 +4,7 @@
 
 
 # Closer Look - The Standards (ACS)
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an overview of the Airman Certification Standards (ACS), highlighting their importance in pilot training and preparation for the FAA practical test.
 

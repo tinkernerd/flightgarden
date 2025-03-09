@@ -4,7 +4,7 @@
 
 
 # Glass Cockpit Flight Instruments
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the features, similarities, and differences of glass cockpit flight instruments, specifically focusing on the Garmin G1000 system, to help new student pilots understand how to interpret and use these modern flight displays.
 

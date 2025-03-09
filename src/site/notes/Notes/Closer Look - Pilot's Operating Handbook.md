@@ -4,7 +4,7 @@
 
 
 # Closer Look: Pilot's Operating Handbook
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section focuses on the Pilot's Operating Handbook (POH) and its crucial role in providing pilots with comprehensive information specific to their aircraft.
 

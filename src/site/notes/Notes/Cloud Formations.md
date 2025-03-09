@@ -4,7 +4,7 @@
 
 
 # Cloud Formations
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the role of the sun in Earth's weather, temperature variations, and cloud formations, providing essential knowledge for student pilots.
 

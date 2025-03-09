@@ -4,7 +4,7 @@
 
 
 # Steep Turns
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 These notes cover the fundamentals of steep turns, including the physics behind them, effects on the aircraft, and how to perform them safely.
 

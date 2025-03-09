@@ -4,7 +4,7 @@
 
 
 # Carbureted Engines
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the operational differences of carbureted engines in training aircraft, including starting procedures, susceptibility to carburetor icing, and the use of carburetor heat to ensure safe engine operation.
 

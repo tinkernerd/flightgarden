@@ -4,7 +4,7 @@
 
 
 # Closer Look - Tablets in the Cockpit
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the use of tablets in aviation, their benefits, and the importance of understanding traditional flight planning methods for new student pilots.
 

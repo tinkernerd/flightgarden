@@ -4,7 +4,7 @@
 
 
 # Non-Towered Airport Communication
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the procedures and best practices for operating into and out of nontowered airports, including effective communication techniques and safety considerations for student pilots.
 

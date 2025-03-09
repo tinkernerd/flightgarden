@@ -4,7 +4,7 @@
 
 
 # The Airplane Engine - Introduction
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces the basic principles and components of airplane engines, focusing on four-stroke, internal combustion, reciprocating engines commonly used in training aircraft. Understanding how these engines operate is crucial for new student pilots.
 

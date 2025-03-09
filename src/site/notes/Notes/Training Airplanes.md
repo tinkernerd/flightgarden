@@ -4,7 +4,7 @@
 
 
 # Training Airplanes
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an overview of common airplanes used for flight training, highlighting their characteristics and differences to help new student pilots familiarize themselves with various training aircraft.
 

@@ -4,7 +4,7 @@
 
 
 # Stall Rhetoric
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the nature of airplane stalls, their characteristics, recovery techniques, and the importance of coordinated flight to ensure safe flying practices.

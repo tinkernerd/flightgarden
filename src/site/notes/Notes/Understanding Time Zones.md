@@ -4,7 +4,7 @@
 
 
 # Understanding Time Zones
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the fundamentals of time zones, their importance in aviation, and how to perform time conversions using Coordinated Universal Time (UTC).
 

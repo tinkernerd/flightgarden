@@ -4,7 +4,7 @@
 
 
 # Sporty's E6B: Flight Planning and FAA Test Prep
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an overview of the Sporty's Electronic E6B Flight Computer, covering its functions and how to use it for flight planning and FAA test preparation. It is aimed at new student pilots to assist them in understanding and utilizing this essential tool.
 

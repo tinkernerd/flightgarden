@@ -4,7 +4,7 @@
 
 
 # Air Facts: Where Is It Really
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section discusses the common issue of misidentifying navigation points or airports during flight, factors leading to such mistakes, and strategies to prevent them.
 

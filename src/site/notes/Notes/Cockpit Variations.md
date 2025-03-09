@@ -4,7 +4,7 @@
 
 
 # Cockpit Variations
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the various cockpit variations you may encounter as your flying career progresses. It highlights differences in engine controls, fuel systems, instrument panels, and emphasizes the importance of adapting to different cockpit configurations.
 

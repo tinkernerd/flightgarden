@@ -4,7 +4,7 @@
 
 
 # Takeoff Tips
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers key takeoff challenges and best practices for new pilots to ensure safe and smooth departures.

@@ -4,7 +4,7 @@
 
 
 # Normal Landings
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
  This section provides an overview of normal landing procedures for new student pilots, covering radio communications, traffic pattern entry, approach, and landing techniques.

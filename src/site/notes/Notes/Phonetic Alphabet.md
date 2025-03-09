@@ -4,7 +4,7 @@
 
 
 # Phonetic Alphabet
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 The **NATO Phonetic Alphabet** is used in aviation to ensure clear and accurate communication over radio transmissions. Each letter of the alphabet corresponds to a standardized word to avoid misunderstandings caused by static, similar-sounding letters, or language differences.
 

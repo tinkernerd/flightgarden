@@ -4,7 +4,7 @@
 
 
 # Aviation Charts and NOTAMs
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 > [[Notes/Notices to Airmen\|Notices to Airmen]]
 
 This section covers the importance of aviation charts and NOTAMs, essential tools for safe and effective flight planning and navigation for new student pilots.

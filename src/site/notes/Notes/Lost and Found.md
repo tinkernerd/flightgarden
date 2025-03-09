@@ -4,7 +4,7 @@
 
 
 # Lost and Found
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers strategies for handling situations when things don't go as planned during cross-country flights, such as getting off course or lost, and how to regain your bearings using various navigation methods.
 

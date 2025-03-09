@@ -4,7 +4,7 @@
 
 
 # Air Facts - When Enough's Not Enough
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section emphasizes the importance of adding safety margins to performance calculations to ensure safe flying practices beyond the minimal legal requirements.
 

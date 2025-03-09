@@ -4,7 +4,7 @@
 
 
 # Slow Flight
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section provides an overview of slow flight, its principles, and the techniques required to perform it safely and effectively. Slow flight is essential for understanding the aircraft's behavior near stall speeds and improving control during critical phases like takeoff and landing.

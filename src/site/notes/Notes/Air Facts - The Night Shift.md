@@ -4,7 +4,7 @@
 
 
 # Air Facts: The Night Shift
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers essential considerations for night flying, emphasizing adjustments in techniques and procedures to ensure safe and enjoyable flights in the dark.
 

@@ -4,7 +4,7 @@
 
 
 # Special Use Airspace
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers Special Use Airspace (SUA), its various types, and other relevant airspace areas, providing essential knowledge for new student pilots.
 

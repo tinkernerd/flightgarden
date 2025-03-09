@@ -4,7 +4,7 @@
 
 
 # ATC Radar Services
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the various Air Traffic Control (ATC) radar services available to VFR pilots, including communication procedures, radar advisories, and the responsibilities of pilots when operating in controlled airspace.
 

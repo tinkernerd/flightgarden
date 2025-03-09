@@ -4,7 +4,7 @@
 
 
 # VFR Flight Following
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces VFR flight following, an optional service that provides VFR pilots with additional situational awareness and assistance from air traffic control (ATC).
 

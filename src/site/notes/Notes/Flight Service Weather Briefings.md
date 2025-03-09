@@ -4,7 +4,7 @@
 
 
 # Flight Service Weather Briefings
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section covers the importance of accessing timely and accurate weather information for safe flight planning, and how to obtain weather briefings tailored to your specific needs as a student pilot.

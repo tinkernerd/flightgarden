@@ -4,7 +4,7 @@
 
 
 # Closer Look: Get the Big Picture
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 In this section, we'll cover the importance of obtaining a quality weather briefing and understanding the big picture, focusing on how to interpret weather systems to make safer flight decisions.
 

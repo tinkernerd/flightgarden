@@ -4,7 +4,7 @@
 
 
 # Flight Planning Part 1: Plotting a Course
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces cross-country flight planning, highlighting essential steps and calculations needed for successful navigation to new airports.
 

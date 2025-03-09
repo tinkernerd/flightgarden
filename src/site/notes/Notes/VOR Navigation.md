@@ -4,7 +4,7 @@
 
 
 # VOR Navigation
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces VOR Navigation and provides an overview of air navigation systems, focusing on how to use VOR for navigation and important concepts for new pilots.
 

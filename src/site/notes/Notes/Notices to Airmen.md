@@ -4,7 +4,7 @@
 
 
 # Notices to Airmen (NOTAMs)
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 NOTAMs (Notices to Airmen) are critical pieces of information that every pilot must review before a flight. They provide real-time updates on conditions and restrictions that could affect your flight. This guide covers the types of NOTAMs and offers resources to ensure you're always up to date.

@@ -4,7 +4,7 @@
 
 
 # Airplane Performance Charts
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces key concepts of airplane performance charts and their importance for pilots in understanding aircraft capabilities and limitations under various conditions.
 

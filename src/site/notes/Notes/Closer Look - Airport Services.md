@@ -4,7 +4,7 @@
 
 
 # Closer Look: Airport Services
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section introduces the services provided at airports, focusing on fixed base operators (FBOs), fueling procedures, and best practices for new pilots when visiting unfamiliar airports.
 

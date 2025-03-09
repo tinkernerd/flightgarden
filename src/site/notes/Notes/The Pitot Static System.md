@@ -4,7 +4,7 @@
 
 
 # The Pitot Static System
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 The pitot-static system drives the airspeed indicator, altimeter, and vertical speed indicator. It is crucial for pilots, especially new student pilots, to understand how this system works.

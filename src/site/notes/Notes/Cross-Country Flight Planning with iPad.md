@@ -4,7 +4,7 @@
 
 
 # Cross-Country Flight Planning with iPad
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides guidance on planning cross-country flights using both traditional methods and modern electronic tools, focusing on how to effectively use ForeFlight on an iPad for flight planning.
 

@@ -4,7 +4,7 @@
 
 
 # The Flight Deck
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section provides an introduction to the flight deck, covering the cockpit layout, different types of instrument panels, the flight and engine instruments, and the importance of familiarizing oneself with the airplane's controls and systems.
 

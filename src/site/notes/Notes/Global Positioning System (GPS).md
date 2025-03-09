@@ -4,7 +4,7 @@
 
 
 # Global Positioning System (GPS)
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 Global Positioning System (GPS) provides pilots with precise navigational information, enhancing safety, situational awareness, and efficiency in flight. This section covers the basics of GPS technology, its benefits, and best practices for new student pilots.
 

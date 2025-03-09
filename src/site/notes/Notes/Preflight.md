@@ -4,7 +4,7 @@
 
 
 # Preflight
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers the essential steps and considerations for conducting a thorough preflight inspection to ensure aircraft safety before takeoff.
 

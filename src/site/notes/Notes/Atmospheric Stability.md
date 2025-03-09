@@ -4,7 +4,7 @@
 
 
 # Atmospheric Stability
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section explores the concept of atmospheric stability and its impact on weather phenomena and flight conditions. Understanding stability is crucial for pilots to anticipate weather changes and ensure safe flying.
 

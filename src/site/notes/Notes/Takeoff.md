@@ -4,7 +4,7 @@
 
 
 # Takeoff
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 
 This section introduces the basics of takeoff procedures, emphasizing the steps and considerations for a safe and effective departure, especially for new student pilots.
