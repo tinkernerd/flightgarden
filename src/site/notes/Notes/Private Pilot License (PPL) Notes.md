@@ -146,9 +146,11 @@
 
 { .block-language-dataview}
 #### Chapter 6
-| Note                                          | Lesson # |
-| --------------------------------------------- | -------- |
-| [[Notes/Rules to Fly By\|Rules to Fly By]] | 1        |
+| Note                                                                                                      | Lesson # |
+| --------------------------------------------------------------------------------------------------------- | -------- |
+| [[Notes/Rules to Fly By\|Rules to Fly By]]                                                             | 1        |
+| [[Notes/Air Facts - 6 Rules For Cross Country Flights\|Air Facts - 6 Rules For Cross Country Flights]] | 2        |
+| [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]                           | 3        |
 
 { .block-language-dataview}
 ---
