@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-reducing-drag/","title":"Closer Look: Reducing Drag","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-reducing-drag/","title":"Closer Look: Reducing Drag","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

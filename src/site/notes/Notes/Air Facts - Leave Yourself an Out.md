@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-leave-yourself-an-out/","title":"Air Facts: Leave Yourself an Out","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-leave-yourself-an-out/","title":"Air Facts: Leave Yourself an Out","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

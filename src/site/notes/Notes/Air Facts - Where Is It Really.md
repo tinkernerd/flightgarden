@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-where-is-it-really/","title":"Air Facts: Where Is It Really","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-where-is-it-really/","title":"Air Facts: Where Is It Really","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

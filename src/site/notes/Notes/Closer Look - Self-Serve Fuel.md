@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-self-serve-fuel/","title":"Closer Look - Self-Serve Fuel","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-self-serve-fuel/","title":"Closer Look - Self-Serve Fuel","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

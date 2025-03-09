@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-asos-behind-the-scenes/","title":"Closer Look - ASOS - Behind the Scenes","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-asos-behind-the-scenes/","title":"Closer Look - ASOS - Behind the Scenes","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

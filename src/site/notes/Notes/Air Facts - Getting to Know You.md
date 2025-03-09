@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-getting-to-know-you/","title":"Air Facts - Getting to Know You","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-getting-to-know-you/","title":"Air Facts - Getting to Know You","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

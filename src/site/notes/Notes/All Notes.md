@@ -18,7 +18,6 @@
 - [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]
 - [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]
 - [[Notes/Change of Scenery\|Change of Scenery]]
-- [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
 - [[Notes/Down to Earth\|Down to Earth]]
 - [[Notes/Four Fundamentals Part 2\|Four Fundamentals Part 2]]
 - [[Notes/Ground Reference Maneuvers\|Ground Reference Maneuvers]]
@@ -31,6 +30,7 @@
 - [[Notes/VFR Flight Following\|VFR Flight Following]]
 - [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]
 - [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]
+- [[Notes/Closer Look - ADS-B\|Closer Look - ADS-B]]
 
 { .block-language-dataview}
 ## Aircraft
@@ -41,7 +41,6 @@
 - [[Notes/Closer Look - Pilot's Operating Handbook\|Closer Look - Pilot's Operating Handbook]]
 - [[Notes/Closer Look - Reducing Drag\|Closer Look - Reducing Drag]]
 - [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]
-- [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
 - [[Notes/Cockpit Variations\|Cockpit Variations]]
 - [[Notes/Engine Start\|Engine Start]]
 - [[Notes/Engine Suspicion\|Engine Suspicion]]
@@ -58,6 +57,8 @@
 - [[Notes/The Pitot Static System\|The Pitot Static System]]
 - [[Notes/Thrust, Stability, & Center of Gravity\|Thrust, Stability, & Center of Gravity]]
 - [[Notes/Training Airplanes\|Training Airplanes]]
+- [[Notes/Air Facts - A Balanced Approach\|Air Facts - A Balanced Approach]]
+- [[Notes/Closer Look - ADS-B\|Closer Look - ADS-B]]
 
 { .block-language-dataview}
 ## Airport Operations
@@ -78,6 +79,7 @@
 - [[Notes/Taxi Tips\|Taxi Tips]]
 - [[Notes/Taxi, Run-up, Traffic Pattern\|Taxi, Run-up, Traffic Pattern]]
 - [[Notes/Tower Controlled Field\|Tower Controlled Field]]
+- [[Notes/Closer Look - Runway Markings\|Closer Look - Runway Markings]]
 
 { .block-language-dataview}
 ## Communication
@@ -93,7 +95,6 @@
 - [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]
 - [[Notes/Air Facts - Leave Yourself an Out\|Air Facts - Leave Yourself an Out]]
 - [[Notes/Aviation Communications\|Aviation Communications]]
-- [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
 - [[Notes/Dowagiac Municipal Airport (C91)\|Dowagiac Municipal Airport (C91)]]
 - [[Notes/Flying to a Towered Airport\|Flying to a Towered Airport]]
 - [[Notes/Getting the Message\|Getting the Message]]
@@ -101,6 +102,7 @@
 - [[Notes/Notices to Airmen\|Notices to Airmen]]
 - [[Notes/Phonetic Alphabet\|Phonetic Alphabet]]
 - [[Notes/Rules to Fly By\|Rules to Fly By]]
+- [[Notes/Closer Look - ADS-B\|Closer Look - ADS-B]]
 
 { .block-language-dataview}
 ## Controlling The Aircraft
@@ -132,6 +134,7 @@
 - [[Notes/Thrust, Stability, & Center of Gravity\|Thrust, Stability, & Center of Gravity]]
 - [[Notes/Touch and Go\|Touch and Go]]
 - [[Notes/Wake Turbulence Avoidance\|Wake Turbulence Avoidance]]
+- [[Notes/Weight and Balance\|Weight and Balance]]
 
 { .block-language-dataview}
 ## Emergencies
@@ -186,7 +189,6 @@
 - [[Notes/Aviation Charts and NOTAMs\|Aviation Charts and NOTAMs]]
 - [[Notes/Basic Instrument Flying\|Basic Instrument Flying]]
 - [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]
-- [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
 - [[Notes/Dowagiac Municipal Airport (C91)\|Dowagiac Municipal Airport (C91)]]
 - [[Notes/Global Positioning System (GPS)\|Global Positioning System (GPS)]]
 - [[Notes/Lost and Found\|Lost and Found]]
@@ -204,6 +206,9 @@
 - [[Notes/VFR Flight Following\|VFR Flight Following]]
 - [[Notes/VOR Navigation\|VOR Navigation]]
 - [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]
+- [[Notes/Flight Plans\|Flight Plans]]
+- [[Notes/Closer Look - Runway Markings\|Closer Look - Runway Markings]]
+- [[Notes/Closer Look - ADS-B\|Closer Look - ADS-B]]
 
 { .block-language-dataview}
 ## Planning
@@ -232,6 +237,8 @@
 - [[Notes/The Dual Cross Country Flight\|The Dual Cross Country Flight]]
 - [[Notes/Winds Aloft Forecast\|Winds Aloft Forecast]]
 - [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]
+- [[Notes/Flight Plans\|Flight Plans]]
+- [[Notes/Air Facts - A Balanced Approach\|Air Facts - A Balanced Approach]]
 
 { .block-language-dataview}
 ## Safety
@@ -290,19 +297,20 @@
 | -------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [[Notes/Aerodynamics\|Aerodynamics]]                                                                        | 6:41 PM - March 09, 2025 |
 | [[Notes/Aeronautical Information Manual\|Aeronautical Information Manual]]                                  | 6:43 PM - March 08, 2025 |
-| [[Notes/Air Facts - 6 Rules For Cross Country Flights\|Air Facts - 6 Rules For Cross Country Flights]]      | 6:38 PM - March 09, 2025 |
-| [[Notes/Air Facts - Calm in the Clouds\|Air Facts - Calm in the Clouds]]                                    | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Emergencies\|Air Facts: Emergencies]]                                                   | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Engine TLC\|Air Facts - Engine TLC]]                                                    | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Eye to the Sky\|Air Facts: Eye to the Sky]]                                             | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Fit for Flight\|Air Facts: Fit for Flight]]                                             | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]                                  | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Laying a Foundation\|Air Facts - Laying a Foundation]]                                  | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Leave Yourself an Out\|Air Facts: Leave Yourself an Out]]                               | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - The Night Shift\|Air Facts: The Night Shift]]                                           | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Weather Geeks\|Air Facts - Weather Geeks]]                                              | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - When Enough's Not Enough\|Air Facts - When Enough's Not Enough]]                        | 6:41 PM - March 09, 2025 |
-| [[Notes/Air Facts - Where Is It Really\|Air Facts: Where Is It Really]]                                     | 6:41 PM - March 09, 2025 |
+| [[Notes/Air Facts - 6 Rules For Cross Country Flights\|Air Facts - 6 Rules For Cross Country Flights]]      | 7:21 PM - March 09, 2025 |
+| [[Notes/Air Facts - A Balanced Approach\|Air Facts - A Balanced Approach]]                                  | 7:22 PM - March 09, 2025 |
+| [[Notes/Air Facts - Calm in the Clouds\|Air Facts - Calm in the Clouds]]                                    | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Emergencies\|Air Facts: Emergencies]]                                                   | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Engine TLC\|Air Facts - Engine TLC]]                                                    | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Eye to the Sky\|Air Facts: Eye to the Sky]]                                             | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Fit for Flight\|Air Facts: Fit for Flight]]                                             | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]                                  | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Laying a Foundation\|Air Facts - Laying a Foundation]]                                  | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Leave Yourself an Out\|Air Facts: Leave Yourself an Out]]                               | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - The Night Shift\|Air Facts: The Night Shift]]                                           | 7:23 PM - March 09, 2025 |
+| [[Notes/Air Facts - Weather Geeks\|Air Facts - Weather Geeks]]                                              | 7:22 PM - March 09, 2025 |
+| [[Notes/Air Facts - When Enough's Not Enough\|Air Facts - When Enough's Not Enough]]                        | 7:22 PM - March 09, 2025 |
+| [[Notes/Air Facts - Where Is It Really\|Air Facts: Where Is It Really]]                                     | 7:22 PM - March 09, 2025 |
 | [[Notes/Air Masses and Fronts\|Air Masses and Fronts]]                                                      | 6:41 PM - March 09, 2025 |
 | [[Notes/AIRMETs and SIGMETs\|AIRMETs and SIGMETs]]                                                          | 6:41 PM - March 09, 2025 |
 | [[Notes/Airplane Performance Charts\|Airplane Performance Charts]]                                          | 6:41 PM - March 09, 2025 |
@@ -324,20 +332,22 @@
 | [[Notes/Carbureted Engines\|Carbureted Engines]]                                                            | 6:41 PM - March 09, 2025 |
 | [[Notes/Change of Scenery\|Change of Scenery]]                                                              | 6:41 PM - March 09, 2025 |
 | [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]                                | 6:38 PM - March 09, 2025 |
-| [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]                                                          | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Airport Services\|Closer Look: Airport Services]]                                     | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]                    | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Atmospheric Pressure\|Closer Look: Atmospheric Pressure]]                             | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Finding A Smoother Ride\|Closer Look - Finding A Smoother Ride]]                      | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Get the Big Picture\|Closer Look: Get the Big Picture]]                               | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Graphical Forecasts for Aviation\|Closer Look: Graphical Forecasts for Aviation]]     | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Pilot's Operating Handbook\|Closer Look: Pilot's Operating Handbook]]                 | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Reducing Drag\|Closer Look: Reducing Drag]]                                           | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Self-Serve Fuel\|Closer Look - Self-Serve Fuel]]                                      | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]                        | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - The Standards (ACS)\|Closer Look - The Standards (ACS)]]                              | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Weather Information\|Closer Look: Weather Information]]                               | 6:41 PM - March 09, 2025 |
-| [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]                | 6:45 PM - March 09, 2025 |
+| [[Notes/Closer Look - ADS-B\|Closer Look - ADS-B]]                                                          | 7:24 PM - March 09, 2025 |
+| [[Notes/Closer Look - Airport Services\|Closer Look: Airport Services]]                                     | 7:24 PM - March 09, 2025 |
+| [[Notes/Closer Look - AOPA and EAA\|Closer Look - AOPA and EAA]]                                            | 7:41 PM - March 09, 2025 |
+| [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]                    | 7:24 PM - March 09, 2025 |
+| [[Notes/Closer Look - Atmospheric Pressure\|Closer Look: Atmospheric Pressure]]                             | 7:24 PM - March 09, 2025 |
+| [[Notes/Closer Look - Finding A Smoother Ride\|Closer Look - Finding A Smoother Ride]]                      | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - Get the Big Picture\|Closer Look: Get the Big Picture]]                               | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - Graphical Forecasts for Aviation\|Closer Look: Graphical Forecasts for Aviation]]     | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - Pilot's Operating Handbook\|Closer Look: Pilot's Operating Handbook]]                 | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - Reducing Drag\|Closer Look: Reducing Drag]]                                           | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - Runway Markings\|Closer Look - Runway Markings]]                                      | 7:21 PM - March 09, 2025 |
+| [[Notes/Closer Look - Self-Serve Fuel\|Closer Look - Self-Serve Fuel]]                                      | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]                        | 7:25 PM - March 09, 2025 |
+| [[Notes/Closer Look - The Standards (ACS)\|Closer Look - The Standards (ACS)]]                              | 7:24 PM - March 09, 2025 |
+| [[Notes/Closer Look - Weather Information\|Closer Look: Weather Information]]                               | 7:24 PM - March 09, 2025 |
+| [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]                | 7:20 PM - March 09, 2025 |
 | [[Notes/Cloud Formations\|Cloud Formations]]                                                                | 6:41 PM - March 09, 2025 |
 | [[Notes/Cockpit Variations\|Cockpit Variations]]                                                            | 6:41 PM - March 09, 2025 |
 | [[Notes/Cross-Country Flight Planning with iPad\|Cross-Country Flight Planning with iPad]]                  | 6:41 PM - March 09, 2025 |
@@ -351,6 +361,7 @@
 | [[Notes/Federal Aviation Regulations - Main\|Federal Aviation Regulations]]                                 | 6:43 PM - March 08, 2025 |
 | [[Notes/Flight Planning Part 1 - Plotting a Course\|Flight Planning Part 1: Plotting a Course]]             | 6:41 PM - March 09, 2025 |
 | [[Notes/Flight Planning Part 2 - Preparing a Navlog\|Flight Planning Part 2: Preparing a Navlog]]           | 6:41 PM - March 09, 2025 |
+| [[Notes/Flight Plans\|Flight Plans]]                                                                        | 6:47 PM - March 09, 2025 |
 | [[Notes/Flight Service Weather Briefings\|Flight Service Weather Briefings]]                                | 6:41 PM - March 09, 2025 |
 | [[Notes/Flying Out of Trouble\|Flying Out of Trouble]]                                                      | 6:41 PM - March 09, 2025 |
 | [[Notes/Flying to a Towered Airport\|Flying to a Towered Airport]]                                          | 6:41 PM - March 09, 2025 |
@@ -405,6 +416,7 @@
 | [[Notes/The Airplane - Introduction\|The Airplane - Introduction]]                                          | 6:41 PM - March 09, 2025 |
 | [[Notes/The Airplane Engine - Introduction\|The Airplane Engine - Introduction]]                            | 6:41 PM - March 09, 2025 |
 | [[Notes/The Dual Cross Country Flight\|The Dual Cross Country Flight]]                                      | 6:41 PM - March 09, 2025 |
+| [[Notes/The Knowledge Test and Oral Exam\|The Knowledge Test and Oral Exam]]                                | 7:27 PM - March 09, 2025 |
 | [[Notes/The Pitot Static System\|The Pitot Static System]]                                                  | 6:41 PM - March 09, 2025 |
 | [[Notes/The Proper Attitude\|The Proper Attitude]]                                                          | 6:41 PM - March 09, 2025 |
 | [[Notes/Thrust, Stability, & Center of Gravity\|Thrust, Stability, & Center of Gravity]]                    | 6:41 PM - March 09, 2025 |
@@ -417,6 +429,7 @@
 | [[Notes/VOR Navigation\|VOR Navigation]]                                                                    | 6:41 PM - March 09, 2025 |
 | [[Notes/Wake Turbulence Avoidance\|Wake Turbulence Avoidance]]                                              | 6:41 PM - March 09, 2025 |
 | [[Notes/Weather Overview\|Aviation Weather]]                                                                | 6:43 PM - March 08, 2025 |
+| [[Notes/Weight and Balance\|Weight and Balance]]                                                            | 7:00 PM - March 09, 2025 |
 | [[Notes/When Should You Fly\|When Should You Fly?]]                                                         | 6:41 PM - March 09, 2025 |
 | [[Notes/Wind Direction Indicators\|Wind Direction Indicators]]                                              | 6:41 PM - March 09, 2025 |
 | [[Notes/Winds Aloft Forecast\|Winds Aloft Forecast]]                                                        | 6:41 PM - March 09, 2025 |

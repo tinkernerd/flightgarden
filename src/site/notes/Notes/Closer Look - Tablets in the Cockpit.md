@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-tablets-in-the-cockpit/","title":"Closer Look - Tablets in the Cockpit","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-tablets-in-the-cockpit/","title":"Closer Look - Tablets in the Cockpit","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

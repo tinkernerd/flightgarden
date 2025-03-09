@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-fit-for-flight/","title":"Air Facts: Fit for Flight","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-fit-for-flight/","title":"Air Facts: Fit for Flight","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

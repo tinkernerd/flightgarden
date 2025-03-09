@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-pilot-s-operating-handbook/","title":"Closer Look: Pilot's Operating Handbook","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-pilot-s-operating-handbook/","title":"Closer Look: Pilot's Operating Handbook","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

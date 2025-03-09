@@ -129,7 +129,7 @@
 | [[Notes/Air Facts - When Enough's Not Enough\|Air Facts - When Enough's Not Enough]]             | 7        |
 | [[Notes/Flying to a Towered Airport\|Flying to a Towered Airport]]                               | 8        |
 | [[Notes/Short and Soft Field Takeoffs and Landings\|Short and Soft Field Takeoffs and Landings]] | 9        |
-| [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]                                               | 10       |
+| [[Notes/Closer Look - ADS-B\|Closer Look - ADS-B]]                                               | 10       |
 | [[Notes/PPL Regulations\|PPL Regulations]]                                                       | 11       |
 | [[Notes/Cloud Formations\|Cloud Formations]]                                                     | 12       |
 | [[Notes/Atmospheric Stability\|Atmospheric Stability]]                                           | 13       |
@@ -152,5 +152,11 @@
 | [[Notes/Air Facts - 6 Rules For Cross Country Flights\|Air Facts - 6 Rules For Cross Country Flights]] | 2        |
 | [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]                           | 3        |
 | [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]           | 4        |
+| [[Notes/Flight Plans\|Flight Plans]]                                                                   | 5        |
+| [[Notes/Closer Look - Runway Markings\|Closer Look - Runway Markings]]                                 | 6        |
+| [[Notes/Weight and Balance\|Weight and Balance]]                                                       | 7        |
+| [[Notes/Air Facts - A Balanced Approach\|Air Facts - A Balanced Approach]]                             | 8        |
+| [[Notes/The Knowledge Test and Oral Exam\|The Knowledge Test and Oral Exam]]                           | 9        |
+| [[Notes/Closer Look - AOPA and EAA\|Closer Look - AOPA and EAA]]                                       | 10       |
 
 { .block-language-dataview}

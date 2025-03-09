@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-airport-services/","title":"Closer Look: Airport Services","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-airport-services/","title":"Closer Look: Airport Services","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

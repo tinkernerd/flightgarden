@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-6-rules-for-cross-country-flights/","title":"Air Facts - 6 Rules For Cross Country Flights","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-6-rules-for-cross-country-flights/","title":"Air Facts - 6 Rules For Cross Country Flights","tags":["aviation","classnotes","air-facts"]}
 ---
 
 # Air Facts - 6 Rules For Cross Country Flights

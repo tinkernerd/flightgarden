@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-calm-in-the-clouds/","title":"Air Facts - Calm in the Clouds","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-calm-in-the-clouds/","title":"Air Facts - Calm in the Clouds","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

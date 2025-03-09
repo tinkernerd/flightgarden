@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-emergencies/","title":"Air Facts: Emergencies","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-emergencies/","title":"Air Facts: Emergencies","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

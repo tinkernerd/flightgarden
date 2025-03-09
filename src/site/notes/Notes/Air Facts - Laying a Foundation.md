@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-laying-a-foundation/","title":"Air Facts - Laying a Foundation","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-laying-a-foundation/","title":"Air Facts - Laying a Foundation","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

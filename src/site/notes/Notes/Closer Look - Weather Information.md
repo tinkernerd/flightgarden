@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-weather-information/","title":"Closer Look: Weather Information","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-weather-information/","title":"Closer Look: Weather Information","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

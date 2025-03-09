@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-the-standards-acs/","title":"Closer Look - The Standards (ACS)","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-the-standards-acs/","title":"Closer Look - The Standards (ACS)","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

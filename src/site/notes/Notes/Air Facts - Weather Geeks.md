@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-weather-geeks/","title":"Air Facts - Weather Geeks","tags":["classnotes","weather","aviation"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-weather-geeks/","title":"Air Facts - Weather Geeks","tags":["classnotes","weather","aviation","air-facts"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-the-night-shift/","title":"Air Facts: The Night Shift","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-the-night-shift/","title":"Air Facts: The Night Shift","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

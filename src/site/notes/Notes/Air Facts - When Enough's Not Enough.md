@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-when-enough-s-not-enough/","title":"Air Facts - When Enough's Not Enough","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-when-enough-s-not-enough/","title":"Air Facts - When Enough's Not Enough","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

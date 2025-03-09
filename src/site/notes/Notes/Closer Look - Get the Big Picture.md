@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-get-the-big-picture/","title":"Closer Look: Get the Big Picture","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-get-the-big-picture/","title":"Closer Look: Get the Big Picture","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

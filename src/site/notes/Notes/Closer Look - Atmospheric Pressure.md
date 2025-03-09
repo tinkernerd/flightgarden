@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-atmospheric-pressure/","title":"Closer Look: Atmospheric Pressure","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-atmospheric-pressure/","title":"Closer Look: Atmospheric Pressure","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

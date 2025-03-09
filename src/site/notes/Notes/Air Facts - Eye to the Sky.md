@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/air-facts-eye-to-the-sky/","title":"Air Facts: Eye to the Sky","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/air-facts-eye-to-the-sky/","title":"Air Facts: Eye to the Sky","tags":["aviation","classnotes","air-facts"]}
 ---
 
 

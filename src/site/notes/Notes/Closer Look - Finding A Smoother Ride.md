@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-finding-a-smoother-ride/","title":"Closer Look - Finding A Smoother Ride","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-finding-a-smoother-ride/","title":"Closer Look - Finding A Smoother Ride","tags":["aviation","classnotes","closer-look"]}
 ---
 
 

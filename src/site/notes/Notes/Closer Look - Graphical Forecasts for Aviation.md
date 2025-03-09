@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/closer-look-graphical-forecasts-for-aviation/","title":"Closer Look: Graphical Forecasts for Aviation","tags":["aviation","classnotes"]}
+{"dg-publish":true,"permalink":"/notes/closer-look-graphical-forecasts-for-aviation/","title":"Closer Look: Graphical Forecasts for Aviation","tags":["aviation","classnotes","closer-look"]}
 ---
 
 
