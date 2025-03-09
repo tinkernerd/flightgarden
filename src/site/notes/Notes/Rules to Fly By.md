@@ -4,7 +4,7 @@
 
 
 # Rules to Fly By
-> [[Private Pilot License (PPL) Notes \|All Class Notes]]
+> [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]
 
 This section covers essential regulations and responsibilities for private pilots, focusing on maintaining certification, operational rules, and safety practices.
 

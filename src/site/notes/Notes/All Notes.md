@@ -7,17 +7,17 @@
 > [[Private Pilot License (PPL) Notes \|All Class Notes]]
 ## Air Traffic
 - [[Notes/AIM/AIM - Arrival Procedures\|AIM - Arrival Procedures]]
-- [[Notes/AIM/AIM - Departure Procedures\|AIM - Departure Procedures]]
 - [[Notes/AIM/AIM - En Route Procedures\|AIM - En Route Procedures]]
+- [[Notes/AIM/AIM - Departure Procedures\|AIM - Departure Procedures]]
 - [[Notes/AIM/AIM - National Security and Interception Procedures\|AIM - National Security and Interception Procedures]]
 - [[Notes/AIM/AIM - Operational Policy-Procedures for Reduced Vertical Separation Minimum (RVSM) in the Domestic U.S., Alaska, Offshore Airspace and the San Juan FIR\|AIM - Operational Policy-Procedures for Reduced Vertical Separation Minimum (RVSM) in the Domestic U.S., Alaska, Offshore Airspace and the San Juan FIR]]
 - [[Notes/AIM/AIM - Operational Policy-Procedures for the Gulf of Mexico 50 NM Lateral Separation Initiative\|AIM - Operational Policy-Procedures for the Gulf of Mexico 50 NM Lateral Separation Initiative]]
 - [[Notes/AIM/AIM - Pilot Controller Roles and Responsibilities\|AIM - Pilot Controller Roles and Responsibilities]]
-- [[Notes/ATC Radar Services\|ATC Radar Services]]
 - [[Notes/Air Facts - Eye to the Sky\|Air Facts - Eye to the Sky]]
 - [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]
-- [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]
+- [[Notes/ATC Radar Services\|ATC Radar Services]]
 - [[Notes/Change of Scenery\|Change of Scenery]]
+- [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]
 - [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
 - [[Notes/Down to Earth\|Down to Earth]]
 - [[Notes/Four Fundamentals Part 2\|Four Fundamentals Part 2]]
@@ -36,11 +36,11 @@
 - [[Notes/Airplane Performance Charts\|Airplane Performance Charts]]
 - [[Notes/Carbureted Engines\|Carbureted Engines]]
 - [[Notes/Closer Look - Finding A Smoother Ride\|Closer Look - Finding A Smoother Ride]]
-- [[Notes/Closer Look - Pilot's Operating Handbook\|Closer Look - Pilot's Operating Handbook]]
 - [[Notes/Closer Look - Reducing Drag\|Closer Look - Reducing Drag]]
-- [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]
 - [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
+- [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]
 - [[Notes/Cockpit Variations\|Cockpit Variations]]
+- [[Notes/Closer Look - Pilot's Operating Handbook\|Closer Look - Pilot's Operating Handbook]]
 - [[Notes/Engine Start\|Engine Start]]
 - [[Notes/Engine Suspicion\|Engine Suspicion]]
 - [[Notes/Engines\|Engines]]
@@ -60,8 +60,8 @@
 { .block-language-dataview}
 ## Airport Operations
 - [[Notes/AIM/AIM - Airport Marking Aids and Signs\|AIM - Airport Marking Aids and Signs]]
-- [[Notes/AIM/AIM - Airport Lighting Aids\|AIM - Airport Lighting Aids]]
 - [[Notes/AIM/AIM - Airport Operations\|AIM - Airport Operations]]
+- [[Notes/AIM/AIM - Airport Lighting Aids\|AIM - Airport Lighting Aids]]
 - [[Notes/AIM/AIM - Preflight\|AIM - Preflight]]
 - [[Notes/AIM/AIM - Services Available to Pilots\|AIM - Services Available to Pilots]]
 - [[Notes/ATC Radar Services\|ATC Radar Services]]
@@ -81,15 +81,15 @@
 ## Communication
 - [[Notes/AIM/AIM - ATC Clearances and Aircraft Separation\|AIM - ATC Clearances and Aircraft Separation]]
 - [[Notes/AIM/AIM - Arrival Procedures\|AIM - Arrival Procedures]]
-- [[Notes/AIM/AIM - Departure Procedures\|AIM - Departure Procedures]]
 - [[Notes/AIM/AIM - En Route Procedures\|AIM - En Route Procedures]]
+- [[Notes/AIM/AIM - Departure Procedures\|AIM - Departure Procedures]]
 - [[Notes/AIM/AIM - National Security and Interception Procedures\|AIM - National Security and Interception Procedures]]
 - [[Notes/AIM/AIM - Radio Communications Phraseology and Techniques\|AIM - Radio Communications Phraseology and Techniques]]
 - [[Notes/AIM/AIM - Services Available to Pilots\|AIM - Services Available to Pilots]]
 - [[Notes/AIM/AIM - Two-way Radio Communications Failure\|AIM - Two-way Radio Communications Failure]]
-- [[Notes/ATC Radar Services\|ATC Radar Services]]
 - [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]
 - [[Notes/Air Facts - Leave Yourself an Out\|Air Facts - Leave Yourself an Out]]
+- [[Notes/ATC Radar Services\|ATC Radar Services]]
 - [[Notes/Aviation Communications\|Aviation Communications]]
 - [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
 - [[Notes/Dowagiac Municipal Airport (C91)\|Dowagiac Municipal Airport (C91)]]
@@ -103,8 +103,8 @@
 { .block-language-dataview}
 ## Controlling The Aircraft
 - [[Notes/Aerodynamics\|Aerodynamics]]
-- [[Notes/Airplane Performance Charts\|Airplane Performance Charts]]
 - [[Notes/Angle of Attack\|Angle of Attack]]
+- [[Notes/Airplane Performance Charts\|Airplane Performance Charts]]
 - [[Notes/Basic Instrument Flying\|Basic Instrument Flying]]
 - [[Notes/Closer Look - Reducing Drag\|Closer Look - Reducing Drag]]
 - [[Notes/Down to Earth\|Down to Earth]]
@@ -115,8 +115,8 @@
 - [[Notes/Ground Reference Maneuvers\|Ground Reference Maneuvers]]
 - [[Notes/Lost and Found\|Lost and Found]]
 - [[Notes/Normal Landings\|Normal Landings]]
-- [[Notes/Pre-Solo Maneuvers\|Pre-Solo Maneuvers]]
 - [[Notes/Pitching and Turning\|Pitching and Turning]]
+- [[Notes/Pre-Solo Maneuvers\|Pre-Solo Maneuvers]]
 - [[Notes/Right of Way Rules and Collision Avoidance\|Right of Way Rules and Collision Avoidance]]
 - [[Notes/Rules to Fly By\|Rules to Fly By]]
 - [[Notes/Short and Soft Field Takeoffs and Landings\|Short and Soft Field Takeoffs and Landings]]
@@ -126,17 +126,17 @@
 - [[Notes/Stalls\|Stalls]]
 - [[Notes/Steep Turns\|Steep Turns]]
 - [[Notes/Takeoff & Landing Variations\|Takeoff & Landing Variations]]
-- [[Notes/The Proper Attitude\|The Proper Attitude]]
 - [[Notes/Thrust, Stability, & Center of Gravity\|Thrust, Stability, & Center of Gravity]]
+- [[Notes/The Proper Attitude\|The Proper Attitude]]
 - [[Notes/Touch and Go\|Touch and Go]]
 - [[Notes/Wake Turbulence Avoidance\|Wake Turbulence Avoidance]]
 
 { .block-language-dataview}
 ## Emergencies
-- [[Notes/AIM/AIM - Aircraft Rescue and Fire Fighting Communications\|AIM - Aircraft Rescue and Fire Fighting Communications]]
-- [[Notes/AIM/AIM - Distress and Urgency Procedures\|AIM - Distress and Urgency Procedures]]
-- [[Notes/AIM/AIM - Emergency Services Available to Pilots\|AIM - Emergency Services Available to Pilots]]
 - [[Notes/AIM/AIM - Emergency General\|AIM - Emergency General]]
+- [[Notes/AIM/AIM - Emergency Services Available to Pilots\|AIM - Emergency Services Available to Pilots]]
+- [[Notes/AIM/AIM - Distress and Urgency Procedures\|AIM - Distress and Urgency Procedures]]
+- [[Notes/AIM/AIM - Aircraft Rescue and Fire Fighting Communications\|AIM - Aircraft Rescue and Fire Fighting Communications]]
 - [[Notes/AIM/AIM - Two-way Radio Communications Failure\|AIM - Two-way Radio Communications Failure]]
 - [[Notes/Air Facts - Emergencies\|Air Facts - Emergencies]]
 - [[Notes/Emergencies\|Emergencies]]
@@ -159,13 +159,13 @@
 { .block-language-dataview}
 ## Navigation
 - [[Notes/AIM/AIM - Air Navigation and Obstruction Lighting\|AIM - Air Navigation and Obstruction Lighting]]
-- [[Notes/AIM/AIM - Airport Lighting Aids\|AIM - Airport Lighting Aids]]
+- [[Notes/AIM/AIM - Airspace General\|AIM - Airspace General]]
 - [[Notes/AIM/AIM - Arrival Procedures\|AIM - Arrival Procedures]]
 - [[Notes/AIM/AIM - Class G Airspace\|AIM - Class G Airspace]]
-- [[Notes/AIM/AIM - Airspace General\|AIM - Airspace General]]
+- [[Notes/AIM/AIM - Airport Lighting Aids\|AIM - Airport Lighting Aids]]
 - [[Notes/AIM/AIM - Controlled Airspace\|AIM - Controlled Airspace]]
-- [[Notes/AIM/AIM - Departure Procedures\|AIM - Departure Procedures]]
 - [[Notes/AIM/AIM - En Route Procedures\|AIM - En Route Procedures]]
+- [[Notes/AIM/AIM - Departure Procedures\|AIM - Departure Procedures]]
 - [[Notes/AIM/AIM - National Security and Interception Procedures\|AIM - National Security and Interception Procedures]]
 - [[Notes/AIM/AIM - Navigation Aids\|AIM - Navigation Aids]]
 - [[Notes/AIM/AIM - Performance-Based Navigation (PBN) and Area Navigation (RNAV)\|AIM - Performance-Based Navigation (PBN) and Area Navigation (RNAV)]]
@@ -176,15 +176,15 @@
 - [[Notes/AIM/AIM - Surveillance Systems\|AIM - Surveillance Systems]]
 - [[Notes/AIM/AIM - Two-way Radio Communications Failure\|AIM - Two-way Radio Communications Failure]]
 - [[Notes/AIM/AIM - Types of Charts Available\|AIM - Types of Charts Available]]
-- [[Notes/ATC Radar Services\|ATC Radar Services]]
 - [[Notes/Air Facts - Getting to Know You\|Air Facts - Getting to Know You]]
 - [[Notes/Air Facts - The Night Shift\|Air Facts - The Night Shift]]
+- [[Notes/ATC Radar Services\|ATC Radar Services]]
 - [[Notes/Air Facts - Where Is It Really\|Air Facts - Where Is It Really]]
+- [[Notes/Basic Instrument Flying\|Basic Instrument Flying]]
 - [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]
 - [[Notes/Aviation Charts and NOTAMs\|Aviation Charts and NOTAMs]]
-- [[Notes/Basic Instrument Flying\|Basic Instrument Flying]]
-- [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]
 - [[Notes/Closer look - ADS-B\|Closer look - ADS-B]]
+- [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]
 - [[Notes/Dowagiac Municipal Airport (C91)\|Dowagiac Municipal Airport (C91)]]
 - [[Notes/Global Positioning System (GPS)\|Global Positioning System (GPS)]]
 - [[Notes/Lost and Found\|Lost and Found]]
@@ -207,11 +207,11 @@
 - [[Notes/Air Facts - Leave Yourself an Out\|Air Facts - Leave Yourself an Out]]
 - [[Notes/Air Facts - When Enough's Not Enough\|Air Facts - When Enough's Not Enough]]
 - [[Notes/Air Facts - Where Is It Really\|Air Facts - Where Is It Really]]
-- [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]
 - [[Notes/Aviation Formulas\|Aviation Formulas]]
 - [[Notes/Calculating Takeoff and Landing Distance\|Calculating Takeoff and Landing Distance]]
-- [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]
+- [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]
 - [[Notes/Closer Look - Airport Services\|Closer Look - Airport Services]]
+- [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]
 - [[Notes/Closer Look - Self-Serve Fuel\|Closer Look - Self-Serve Fuel]]
 - [[Notes/Cross-Country Flight Planning with iPad\|Cross-Country Flight Planning with iPad]]
 - [[Notes/Flight Planning Part 1 - Plotting a Course\|Flight Planning Part 1 - Plotting a Course]]
@@ -258,14 +258,14 @@
 - [[Notes/Air Facts - Weather Geeks\|Air Facts - Weather Geeks]]
 - [[Notes/Air Masses and Fronts\|Air Masses and Fronts]]
 - [[Notes/Atmospheric Stability\|Atmospheric Stability]]
-- [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]
 - [[Notes/Closer Look - Atmospheric Pressure\|Closer Look - Atmospheric Pressure]]
 - [[Notes/Closer Look - Get the Big Picture\|Closer Look - Get the Big Picture]]
 - [[Notes/Closer Look - Graphical Forecasts for Aviation\|Closer Look - Graphical Forecasts for Aviation]]
+- [[Notes/Closer Look - ASOS - Behind the Scenes\|Closer Look - ASOS - Behind the Scenes]]
 - [[Notes/Closer Look - Weather Information\|Closer Look - Weather Information]]
 - [[Notes/Cloud Formations\|Cloud Formations]]
-- [[Notes/Flying Out of Trouble\|Flying Out of Trouble]]
 - [[Notes/Flight Service Weather Briefings\|Flight Service Weather Briefings]]
+- [[Notes/Flying Out of Trouble\|Flying Out of Trouble]]
 - [[Notes/Fog & Atmospheric Pressure\|Fog & Atmospheric Pressure]]
 - [[Notes/ForeFlight Weather Imagery\|ForeFlight Weather Imagery]]
 - [[Notes/METAR Weather Report\|METAR Weather Report]]
@@ -273,10 +273,10 @@
 - [[Notes/Radar Imagery\|Radar Imagery]]
 - [[Notes/Terminal Aerodrome Forecast (TAF)\|Terminal Aerodrome Forecast (TAF)]]
 - [[Notes/Thunderstorms and Convective Forecasts\|Thunderstorms and Convective Forecasts]]
-- [[Notes/Weather Overview\|Weather Overview]]
 - [[Notes/When Should You Fly\|When Should You Fly]]
 - [[Notes/Wind Direction Indicators\|Wind Direction Indicators]]
 - [[Notes/Winds Aloft Forecast\|Winds Aloft Forecast]]
+- [[Notes/Weather Overview\|Weather Overview]]
 
 { .block-language-dataview}
 # All Notes
@@ -302,7 +302,7 @@
 | [[Notes/Airport Signs and Markings\|Airport Signs and Markings]]                                            | 6:47 PM - March 08, 2025 |
 | [[Notes/Airspace Preflight Planning\|Airspace Preflight Planning]]                                          | 6:43 PM - March 08, 2025 |
 | [[Notes/Airventure Air Show\|The Legendary AirVenture]]                                                     | 6:43 PM - March 08, 2025 |
-| [[Notes/All Notes\|All Notes]]                                                                              | 6:43 PM - March 08, 2025 |
+| [[Notes/All Notes\|All Notes]]                                                                              | 9:11 AM - March 09, 2025 |
 | [[Notes/Angle of Attack\|Angle of Attack]]                                                                  | 6:43 PM - March 08, 2025 |
 | [[Notes/ATC Radar Services\|ATC Radar Services]]                                                            | 6:43 PM - March 08, 2025 |
 | [[Notes/Atmospheric Stability\|Atmospheric Stability]]                                                      | 6:43 PM - March 08, 2025 |
@@ -377,7 +377,7 @@
 | [[Notes/Radar Imagery\|Radar Imagery]]                                                                      | 6:43 PM - March 08, 2025 |
 | [[Notes/Reading Sectional Charts\|Reading Sectional Charts]]                                                | 6:43 PM - March 08, 2025 |
 | [[Notes/Right of Way Rules and Collision Avoidance\|Right of Way Rules and Collision Avoidance]]            | 6:43 PM - March 08, 2025 |
-| [[Notes/Rules to Fly By\|Rules to Fly By]]                                                                  | 6:43 PM - March 08, 2025 |
+| [[Notes/Rules to Fly By\|Rules to Fly By]]                                                                  | 9:12 AM - March 09, 2025 |
 | [[Notes/Short and Soft Field Takeoffs and Landings\|Short and Soft Field Takeoffs and Landings]]            | 6:43 PM - March 08, 2025 |
 | [[Notes/Slow Flight\|Slow Flight]]                                                                          | 6:43 PM - March 08, 2025 |
 | [[Notes/Solo\|Solo]]                                                                                        | 6:43 PM - March 08, 2025 |
