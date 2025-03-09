@@ -30,6 +30,7 @@
 - [[Notes/Touch and Go\|Touch and Go]]
 - [[Notes/VFR Flight Following\|VFR Flight Following]]
 - [[Notes/Class C and B Airport Operations\|Class C and B Airport Operations]]
+- [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]
 
 { .block-language-dataview}
 ## Aircraft
@@ -230,6 +231,7 @@
 - [[Notes/Student Pilot & Medical Certificate\|Student Pilot & Medical Certificate]]
 - [[Notes/The Dual Cross Country Flight\|The Dual Cross Country Flight]]
 - [[Notes/Winds Aloft Forecast\|Winds Aloft Forecast]]
+- [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]
 
 { .block-language-dataview}
 ## Safety
@@ -335,6 +337,7 @@
 | [[Notes/Closer Look - Tablets in the Cockpit\|Closer Look - Tablets in the Cockpit]]                        | 6:41 PM - March 09, 2025 |
 | [[Notes/Closer Look - The Standards (ACS)\|Closer Look - The Standards (ACS)]]                              | 6:41 PM - March 09, 2025 |
 | [[Notes/Closer Look - Weather Information\|Closer Look: Weather Information]]                               | 6:41 PM - March 09, 2025 |
+| [[Notes/Closer Look - Your Deceptive Flying Mind\|Closer Look - Your Deceptive Flying Mind]]                | 6:45 PM - March 09, 2025 |
 | [[Notes/Cloud Formations\|Cloud Formations]]                                                                | 6:41 PM - March 09, 2025 |
 | [[Notes/Cockpit Variations\|Cockpit Variations]]                                                            | 6:41 PM - March 09, 2025 |
 | [[Notes/Cross-Country Flight Planning with iPad\|Cross-Country Flight Planning with iPad]]                  | 6:41 PM - March 09, 2025 |
@@ -376,7 +379,7 @@
 | [[Notes/PPL Regulations\|PPL Regulations]]                                                                  | 6:41 PM - March 09, 2025 |
 | [[Notes/Pre-Solo Maneuvers\|Pre-Solo Maneuvers]]                                                            | 6:41 PM - March 09, 2025 |
 | [[Notes/Preflight\|Preflight]]                                                                              | 6:41 PM - March 09, 2025 |
-| [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]                              | 6:50 PM - March 08, 2025 |
+| [[Notes/Private Pilot License (PPL) Notes\|Private Pilot License (PPL) Notes]]                              | 6:44 PM - March 09, 2025 |
 | [[Notes/Propeller, Fuel and Electrical System\|Propeller, Fuel and Electrical System]]                      | 6:41 PM - March 09, 2025 |
 | [[Notes/Purposeful Preflight\|Purposeful Preflight]]                                                        | 6:41 PM - March 09, 2025 |
 | [[Notes/Quote Book\|Quote Book]]                                                                            | 6:37 PM - March 08, 2025 |
